@@ -1,5 +1,6 @@
+<p align="center"><img src="https://github.com/Adyson-Lima/50_APIs_rails7/blob/main/50(1).png" alt="logo" width="400" height="200"></p>
+
 # 50 API's em Ruby on Rails7.
-<img src="" alt="logo" width="600" height="400">
 
 Como parte do treino diário de habilidades de programação em Ruby e em Ruby on Rails, este repositório registra o desenvolvimento de 50 web api's feitas em Ruby on Rails.
 
