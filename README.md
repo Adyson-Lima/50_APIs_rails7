@@ -5,7 +5,7 @@
 Como parte do treino diário de habilidades de programação em Ruby e em Ruby on Rails, este repositório registra o desenvolvimento de 50 web api's feitas em Ruby on Rails.
 
 # Lista das api's.
-- <a href="https://github.com/Adyson-Lima/microcontrollers_api">api 01</a> - <a href="https://github.com/Adyson-Lima/airplanes_api">api 02</a> - <a href="https://github.com/Adyson-Lima/users_api">api 03</a> - <a href="https://github.com/Adyson-Lima/cars_api">api 04</a> - <a href="https://github.com/Adyson-Lima/books_api">api 05</a> - <a href="https://github.com/Adyson-Lima/systems_api">api 06</a> - <a href="">api 07</a> - <a href="">api 08</a> - <a href="">api 09</a> - <a href="">api 10</a>
+- <a href="https://github.com/Adyson-Lima/microcontrollers_api">api 01</a> - <a href="https://github.com/Adyson-Lima/airplanes_api">api 02</a> - <a href="https://github.com/Adyson-Lima/users_api">api 03</a> - <a href="https://github.com/Adyson-Lima/cars_api">api 04</a> - <a href="https://github.com/Adyson-Lima/books_api">api 05</a> - <a href="https://github.com/Adyson-Lima/systems_api">api 06</a> - <a href="https://github.com/Adyson-Lima/frameworks_api">api 07</a> - <a href="">api 08</a> - <a href="">api 09</a> - <a href="">api 10</a>
 
 - <a href="">api 11</a> - <a href="">api 12</a> - <a href="">api 13</a> - <a href="">api 14</a> - <a href="">api 15</a> - <a href="">api 16</a> - <a href="">api 17</a> - <a href="">api 18</a> - <a href="">api 19</a> - <a href="">api 20</a>
 
