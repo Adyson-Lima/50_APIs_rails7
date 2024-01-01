@@ -2,7 +2,7 @@
 
 # 50 API's em Ruby on Rails7.
 
-Como parte do treino diário de habilidades de programação em Ruby e em Ruby on Rails, este repositório registra o desenvolvimento de 50 web api's feitas em Ruby on Rails.
+Como parte do treino diário de habilidades de programação em Ruby e em Ruby on Rails, este repositório registra o desenvolvimento de 50 web api's em Ruby on Rails.
 
 # Lista das api's.
 - <a href="https://github.com/Adyson-Lima/microcontrollers_api">api 01</a> - <a href="https://github.com/Adyson-Lima/airplanes_api">api 02</a> - <a href="https://github.com/Adyson-Lima/users_api">api 03</a> - <a href="https://github.com/Adyson-Lima/cars_api">api 04</a> - <a href="https://github.com/Adyson-Lima/books_api">api 05</a> - <a href="https://github.com/Adyson-Lima/systems_api">api 06</a> - <a href="https://github.com/Adyson-Lima/frameworks_api">api 07</a> - <a href="https://github.com/Adyson-Lima/electronics_components_api">api 08</a> - <a href="https://github.com/Adyson-Lima/capacitors_api">api 09</a> - <a href="https://github.com/Adyson-Lima/tools_api">api 10</a>
